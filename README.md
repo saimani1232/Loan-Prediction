@@ -59,11 +59,6 @@ The dataset consists of the following features:
 
 ---
 
-## 📜 **License**
-This project is licensed under the **MIT License**. See the LICENSE file for details.
-
----
-
 ## 🙌 **Acknowledgments**
 ✅ **Kaggle** for providing the dataset.  
 ✅ Developers and contributors of open-source libraries used in this project.
